@@ -23,13 +23,3 @@ Me especializo en transformar ideas en interfaces intuitivas, atractivas y funci
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-````
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/ValeSack">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ValeSack&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ValeSack&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
