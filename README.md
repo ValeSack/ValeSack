@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Valeria Sackmann</h1>
 
 ## Sobre mi
-- 💻 Desarrolladora Front-End con 3 años de experiencia
+- 💻 Desarrolladora Front-End con 5 años de experiencia
 - ✨ Apasionada por crear experiencias únicas en UI y UX
 
 Me especializo en transformar ideas en interfaces intuitivas, atractivas y funcionales. Procuro que cada línea de código que escribo este pensada para mejorar la experiencia del usuario y darle vida a diseños modernos y responsivos.
